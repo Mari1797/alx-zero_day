@@ -1,1 +1,1 @@
-my first directory
+HOW TO BE UP TO DATE IN GIT
